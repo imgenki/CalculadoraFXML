@@ -1,4 +1,4 @@
-package dad.javafx.aprendiendo.fxml;
+package dad.javafx.calculadorafxml;
 
 public class Main {
 
